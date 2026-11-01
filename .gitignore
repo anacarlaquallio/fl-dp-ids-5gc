@@ -1,0 +1,27 @@
+# Datasets
+data/
+*.pcap
+*.pcapng
+Combined.csv
+BTS_*.csv
+
+# Large or intermediate outputs
+*.pt
+*.pth
+*_roc.npz
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter or Colab
+.ipynb_checkpoints/
+
+# OS or editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

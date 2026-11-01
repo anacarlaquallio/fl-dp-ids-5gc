@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-learn
+torch
+flwr[simulation]          
+opacus                    
+adversarial-robustness-toolbox   
+
+matplotlib
+jupyter
