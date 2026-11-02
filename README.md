@@ -20,7 +20,7 @@ All scripts are in `src/` and must stay in the same folder.
 | Paper item | Command | Output |
 |---|---|---|
 | Fig. 1–3, CVE5G (MLP) | `python 05_ids_flow_fl_dp_v3.py ...` | `results_05_mlp.csv` |
-| Fig. 1–3, CVE5G (1D-CNN) | `python 05_ids_flow_fl_dp_v3.py --model cnn ...` | `results_05_novo_cnn.csv` |
+| Fig. 1–3, CVE5G (1D-CNN) | `python 05_ids_flow_fl_dp_v3.py --model cnn ...` | `results_05_cnn.csv` |
 | Fig. 1–3, 5G-NIDD | `python 07_ids_5gnidd_fl_dp.py --csv Combined.csv ...` | `results_07.csv` |
 | Table I, CVE5G (MLP) | `python 08_mia_audit.py --dataset cve5g --dup-mode always-in --overfit ...` | `results_08_mia_cve5g_alwaysin.csv` |
 | ... | ... | ... |
