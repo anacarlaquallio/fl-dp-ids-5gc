@@ -4,7 +4,7 @@ Code and results for "Privacy-Preserving Intrusion Detection for 5G Core: A Fede
 Federated learning IDS with differential privacy for the 5G core, evaluated on CVE5G and 5G-NIDD.
 
 ## Data
-- CVE5G:
+- CVE5G: https://ieee-dataport.org/documents/cve5g-5g-core-network-cyberattacks-dataset
 - 5G-NIDD: https://ieee-dataport.org/documents/5g-nidd-comprehensive-network-intrusion-detection-dataset-generated-over-5g-wireless (use `Combined.csv`)
 
 Datasets are not included in this repository.
